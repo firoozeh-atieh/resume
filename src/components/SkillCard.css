@@ -1,0 +1,26 @@
+.card{
+    height:300px;
+    min-width: 190px;
+    background-color: #006573;
+    color:wheat;
+    margin:50px;
+    padding: 10px;
+    border-radius: 10px;
+    display:flex;
+    flex:auto;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.skillImgWrapper
+{
+margin:5px;
+max-width:100px;
+max-height: 100px;
+}
+
+
+.skill_title_wrapper
+{ 
+    align-self: flex-end;
+}

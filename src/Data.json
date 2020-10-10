@@ -1,0 +1,93 @@
+{
+    "title":" Hello,I'm Atieh Firoozeh",
+    "subtitle":"Developer | Pianist   ",
+    "description":"Utilized strong analytical and problem solving skills to derive innovative solutions",
+    "links":
+    {
+        "github":"https://github.com/firoozeh-atieh",
+        "stackoverflow":"https://stackoverflow.com/story/at.firoozeh",
+        "linkedin":"https://ir.linkedin.com/in/atieh-firoozeh-789b8776",
+        "instagram":"https://www.instagram.com/at.firoozeh"
+    },
+    "sections":
+    [ {
+        "title":"About",
+
+        "Items":[{
+            "type":"p",
+            "content":"Miracles can be your fingers when you press the piano keyboard or the keyboard buttons, both ringing.  "
+    },
+    {
+        "type":"p",
+        "content":"Miracles can be thoughts behind your magic fingers "
+},
+{
+    "type":"p",
+    "content":"I never stopped learning and problem-solving because it is what pulls me out of bed every morning."
+},{
+    "type":"p",
+    "content":"I value being on-time, reliable, and result-oriented. Working with a team that shares these qualities and interacting with smart, happy team-mates makes my life more enjoyable. "
+    }]
+    },
+    {
+        "title":"Skills",
+
+        "Items":[
+            {
+            "type":"Card",
+            "content":{
+                "image":"images/c-sharp.png",
+                "title":"C#",
+                "subtitle":"most commonly used language for leveraging the .NET Framework."
+            }
+        },
+            {
+                "type":"Card",
+                "content":{
+                    "image":"images/html.png",
+                    "title":"html",
+                    "subtitle":"Hypertext Markup Language (HTML)  the standard markup language "
+                }
+            },
+            {
+                "type":"Card",
+                "content":{
+                    "image":"images/css.png",
+                    "title":"Css",
+                    "subtitle":"Cascading Style Sheets (CSS)  a style sheet language"
+                }
+            },
+            {
+                "type":"Card",
+                "content":{
+                    "image":"images/js-format.png",
+                    "title":"JavaScript",
+                    "subtitle":"JavaScript is a programming language that conforms to the ECMAScript specification"
+                }
+            },
+            {
+                "type":"Card",
+                "content":{
+                    "image":"images/sql.png",
+                    "title":"sql",
+                    "subtitle":"Structured Query Language a domain-specific language "
+                }
+            },
+            {
+                "type":"Card",
+                "content":{
+                    "image":"images/highcharts.png",
+                    "title":"highchat",
+                    "subtitle":"Highcharts is a software library for charting written in pure JavaScript, first released in 2009"
+                }
+            }
+        ]
+    }
+    ],
+    "icons":{
+        "down":"images/down.png",
+        "Up":"images/Up.png"
+    }
+}
+
+
